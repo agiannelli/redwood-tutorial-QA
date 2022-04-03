@@ -48,3 +48,14 @@ input.error, textarea.error {
 .flex-between button {
   display: inline;
 }
+
+.button {
+  color: darkgreen;
+  font-size: medium;
+  font-weight: bold;
+  border: 3px solid #666;
+  border-radius: 12px;
+  padding: 6px;
+  height: fit-content;
+  background-color: #fff;
+}
